@@ -1,2 +1,3 @@
 Este es el primer archivo modificado #2 en la rama principal 1 con los cambios de principal1.2
 cambio despues de un merge con principal1.2
+cambio que debe ser quitado
